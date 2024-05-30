@@ -1,2 +1,2 @@
-# toy_ds_project
+# fred_database
 author:fred
